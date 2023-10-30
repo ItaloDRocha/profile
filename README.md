@@ -14,7 +14,7 @@
 </p>
  
 
-   [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,bootstrap,mysql,postgres,postman,cs,git)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,mysql,postgres,postman,bootstrap,cs,git)](https://skillicons.dev)
 
 
 <p align="left">
