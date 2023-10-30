@@ -14,7 +14,7 @@
 </p>
  
 
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=php,js,laravel,jquery,bootstrap,mysql,postgres,postman,cs,git)](https://skillicons.dev)
 
 
 <p align="left">
