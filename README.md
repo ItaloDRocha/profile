@@ -9,11 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: PHP | JS | MYSQL | LARAVEL
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: PHP | JS | MYSQL | LARAVEL
 </p>
 
 <p align="left">
