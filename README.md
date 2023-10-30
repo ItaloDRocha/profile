@@ -9,7 +9,9 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: PHP | JS | MYSQL | LARAVEL
+  🚀  Ferramentas: PHP | JS | MYSQL | LARAVEL
+
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </p>
 
 <p align="left">
